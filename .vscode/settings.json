@@ -1,0 +1,15 @@
+{
+    "cmake.sourceDirectory": "C:/Users/olegv/Desktop/Portfolio/SoftwarePortfolio/UAVFleetCenterMonitor/mavlink_soft",
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5450,
+            "driver": "PostgreSQL",
+            "name": "UAVFleeDB_Connection",
+            "database": "uav_fleet_center_monitor_db",
+            "username": "postgres"
+        }
+    ]
+}
